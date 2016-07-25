@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private int addResult;
     private JavaNative mJavaNative;
     private TextView mResultText;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
