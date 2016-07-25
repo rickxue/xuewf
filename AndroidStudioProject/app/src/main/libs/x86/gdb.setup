@@ -1,0 +1,2 @@
+set solib-search-path D:/work/DynamicLoad/AndroidStudioProject/app/src/main/obj/local/x86
+directory C:/Users/user/AppData/Local/Android/sdk/ndk-bundle/build//../platforms/android-24/arch-x86/usr/include C:/Users/user/AppData/Local/Android/sdk/ndk-bundle/build//../sources/cxx-stl/system/include D:/work/DynamicLoad/AndroidStudioProject/app/src/main/jni
